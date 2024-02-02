@@ -4,7 +4,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFSdev&layout=compact&hide_border=true&title_color=6A5ACD&text_color=DAA520&bg_color=000000" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=4000&pause=300&color=6A5ACD&background=01C6FF00&center=true&vCenter=true&width=1000&lines=Hey,+there!+My+name+is+Felipe+Araújo!;I'm+20+years+old+and+i'm+from+Brazil;Be+welcome+to+my+github+profile+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=4000&pause=300&color=6A5ACD&background=01C6FF00&center=true&vCenter=true&width=1000&lines=Hey,+there!+My+name+is+Felipe+Araújo!;I'm+21+years+old+and+i'm+from+Brazil;Be+welcome+to+my+github+profile+%3A)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeFSdev&bg_color=000000&color=DAA520&line=DAA520&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <hr size="10" width="100%" align="center" noshade>
